@@ -1,5 +1,8 @@
 🏆 Conquistas do Dia 01 - Desafio Avatar (7 Days of Code)
-Obstáculos do desenvolvimento Back-end e completei as seguintes etapas:
+
+<img width="1918" height="1079" alt="dia1" src="https://github.com/user-attachments/assets/7abd54ab-1e2f-4dd0-b6e0-0ad7341e4020" />
+
+Obstáculos do desenvolvimento Back-end e superação das seguintes etapas:
 
 Configuração de Ambiente Profissional: Criei um ambiente virtual (venv) dedicado para o projeto, garantindo que as dependências fiquem isoladas e não interfiram em outras aplicações do meu sistema.
 

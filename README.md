@@ -8,7 +8,7 @@ Configuração de Ambiente Profissional: Criei um ambiente virtual (venv) dedica
 
 Domínio do Módulo Requests: Instalei e utilizei a biblioteca requests para realizar comunicações via protocolo HTTP.
 
-Consumo de API REST: Implementei com sucesso uma requisição do tipo GET para a API de "Avatar: The Last Airbender", estabelecendo conexão com um servidor externo.
+Consumo de API REST: Implementei com sucesso uma requisição do tipo GET para a API de "Avatar: The Last Airbender", estabelecendo conexão com  (Água, Terra, Fogo e Ar, sendo capaz de dominá-los para manter o equilíbrio) ops, na verdade é conexão com apenas um servidor externo.
 
 Manipulação de Dados JSON: Recebi a resposta da API, tratei os dados brutos para o formato JSON e utilizei o Python para exibir essas informações no terminal.
 

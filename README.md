@@ -15,3 +15,5 @@ Manipulação de Dados JSON: Recebi a resposta da API, tratei os dados brutos pa
 Versionamento e Organização: Superei desafios de diretórios e caminhos no terminal, organizando meus scripts de forma que o código e o ambiente virtual trabalhem em harmonia.
 
 #7DaysOfCode
+
+<h2>Obrigada por ver este repositório😉. E se ele te ajudou de alguma forma, deixe uma ⭐ em troca</h2>

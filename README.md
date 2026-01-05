@@ -1,5 +1,5 @@
 🏆 Conquistas do Dia 01 - Desafio Avatar (7 Days of Code)
-Hoje venci os primeiros obstáculos do desenvolvimento Back-end e completei as seguintes etapas:
+Obstáculos do desenvolvimento Back-end e completei as seguintes etapas:
 
 Configuração de Ambiente Profissional: Criei um ambiente virtual (venv) dedicado para o projeto, garantindo que as dependências fiquem isoladas e não interfiram em outras aplicações do meu sistema.
 
@@ -10,3 +10,5 @@ Consumo de API REST: Implementei com sucesso uma requisição do tipo GET para a
 Manipulação de Dados JSON: Recebi a resposta da API, tratei os dados brutos para o formato JSON e utilizei o Python para exibir essas informações no terminal.
 
 Versionamento e Organização: Superei desafios de diretórios e caminhos no terminal, organizando meus scripts de forma que o código e o ambiente virtual trabalhem em harmonia.
+
+#7DaysOfCode

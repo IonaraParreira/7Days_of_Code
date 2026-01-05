@@ -1,4 +1,4 @@
-import requests # Usando o módulo requests
+import requests # Usando o módulo request
 
 # Exigência 1: Executar requisição do tipo GET
 url = "https://last-airbender-api.fly.dev/api/v1/characters"

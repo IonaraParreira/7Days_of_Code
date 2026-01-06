@@ -17,6 +17,10 @@ Versionamento e Organização: Superei desafios de diretórios e caminhos no ter
 
 <h1>Curiosidade</h1>
 
+|Termo|O que é|No código|
+|:---|:---|:---|
+|URL| O caminho/link (Uniform Resource Locator) que aponta para onde os dados estão.|'https://last-airbender-api.fly.dev/api/v1/characters'
+|API| O serviço/sistema que processa seu pedido e entrega a resposta.|O conjunto de regras que te envia o JSON após o <H4>***requests.get(url).***</H4>
 
 ![#7DaysOfCode](https://img.shields.io/badge/%237DaysOfCode-black?style=for-the-badge&logoColor=white)
 

@@ -15,13 +15,20 @@ Manipulação de Dados JSON: Recebi a resposta da API, tratei os dados brutos pa
 
 Versionamento e Organização: Superei desafios de diretórios e caminhos no terminal, organizando meus scripts de forma que o código e o ambiente virtual trabalhem em harmonia.
 
-<h1>Curiosidade</h1>
+<h1>Resumo das Relações</h1>
 
-|Termo|O que é|No código|
+|Conceito|O que é|Papel na comunicação|
 |:---|:---|:---|
-|URL| O caminho/link (Uniform Resource Locator) que aponta para onde os dados estão.|'https://last-airbender-api.fly.dev/api/v1/characters'
-|API| O serviço/sistema que processa seu pedido e entrega a resposta.|O conjunto de regras que te envia o JSON após o <H4>***requests.get(url).***</H4>
+|GET|Método HTTP (verbo)|Ação de buscar/recuperar dados
+|URL|Endereço|Local do recurso na rede
+|API|Interface/Contrato|Define as regras de interação
+|POSTMAN|Ferramenta|Ambiente para testar a API usando métodos e URLs
 
-![#7DaysOfCode](https://img.shields.io/badge/%237DaysOfCode-black?style=for-the-badge&logoColor=white)
+<br>![Tradutor](https://img.shields.io/badge/Dica-lilac?style=for-the-badge&color=9400d3)
+
+Em essência, você usa o Postman para enviar uma requisição GET para uma URL específica que faz parte de uma API.
+
+
+<br>![#7DaysOfCode](https://img.shields.io/badge/%237DaysOfCode-black?style=for-the-badge&logoColor=white)
 
 <h2>Obrigada por ver este repositório😉. E se ele te ajudou de alguma forma, deixe uma ⭐ em troca</h2>

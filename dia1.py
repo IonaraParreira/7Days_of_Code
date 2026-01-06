@@ -10,6 +10,3 @@ dados = resposta.json()
 
 # Exigência 3: Imprimir o corpo da resposta
 print(json.dumps(dados, indent=6))
-
-
-

@@ -1,4 +1,5 @@
 import requests # Usando o módulo requests
+import json     # Organiza o texto em formato Json
 
 # Exigência 1: Executar requisição do tipo GET
 url = "https://last-airbender-api.fly.dev/api/v1/characters"
@@ -8,4 +9,7 @@ resposta = requests.get(url)
 dados = resposta.json()
 
 # Exigência 3: Imprimir o corpo da resposta
-print(dados)
+print(json.dumps(dados, indent=6))
+
+
+

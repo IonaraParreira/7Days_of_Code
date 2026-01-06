@@ -26,9 +26,13 @@ Porque usei| E não usei|Motivo
 |:---|:---|:---|
 |from googletrans import Translator|import googletrans|Para deixar o código mais limpo e leve
 
+<br>![#7DaysOfCode](https://img.shields.io/badge/%237DaysOfCode-black?style=for-the-badge&logoColor=white)
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+
 <br><h1>🏆 Conquistas do Dia 01 - Desafio Avatar (7 Days of Code)</h1>
 
-<img width="1913" height="1079" alt="image" src="https://github.com/user-attachments/assets/98639513-f4bb-461f-ab96-d45993044c13" />
+<img width="1913" height="1079" alt="image" src="https://github.com/user-attachments/assets/98639513-f4bb-461f-ab96-d45993044c13"/>
 
 
 <br><h2>Obstáculos do desenvolvimento Back-end e superação das seguintes etapas:</h2>

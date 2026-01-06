@@ -1,6 +1,7 @@
 🏆 Conquistas do Dia 01 - Desafio Avatar (7 Days of Code)
 
-<img width="1918" height="1079" alt="dia1" src="https://github.com/user-attachments/assets/7abd54ab-1e2f-4dd0-b6e0-0ad7341e4020" />
+<img width="1913" height="1079" alt="image" src="https://github.com/user-attachments/assets/98639513-f4bb-461f-ab96-d45993044c13" />
+
 
 Obstáculos do desenvolvimento Back-end e superação das seguintes etapas:
 
@@ -14,6 +15,20 @@ Manipulação de Dados JSON: Recebi a resposta da API, tratei os dados brutos pa
 
 Versionamento e Organização: Superei desafios de diretórios e caminhos no terminal, organizando meus scripts de forma que o código e o ambiente virtual trabalhem em harmonia.
 
-#7DaysOfCode
+<h1>Resumo das Relações</h1>
+
+|Conceito|O que é|Papel na comunicação|
+|:---|:---|:---|
+|GET|Método HTTP (verbo)|Ação de buscar/recuperar dados
+|URL|Endereço|Local do recurso na rede
+|API|Interface/Contrato|Define as regras de interação
+|POSTMAN|Ferramenta|Ambiente para testar a API usando métodos e URLs
+
+<br>![Tradutor](https://img.shields.io/badge/Dica-lilac?style=for-the-badge&color=9400d3)
+
+Em essência, você usa o Postman para enviar uma requisição GET para uma URL específica que faz parte de uma API.
+
+
+<br>![#7DaysOfCode](https://img.shields.io/badge/%237DaysOfCode-black?style=for-the-badge&logoColor=white)
 
 <h2>Obrigada por ver este repositório😉. E se ele te ajudou de alguma forma, deixe uma ⭐ em troca</h2>

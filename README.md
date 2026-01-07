@@ -1,4 +1,5 @@
 <h1>🏆 Conquistas do Dia 03 - Desafio DJANGO (7 Days of Code)</h1>
+<br><h2>Obstáculos do desenvolvimento Back-end e superação💪🏻 das seguintes etapas:</h2>
 Neste desafio, saí dos scripts isolados e iniciei a construção de uma aplicação Web robusta utilizando o framework Django.
 
 Configuração de Ambiente Web: Fiz a instalação e preparação do framework Django dentro de um ambiente virtual (venv).
@@ -14,8 +15,6 @@ Manutenção de Banco de Dados: Entendi sobre Migrações (migrations) e tratei 
 <img width="1906" height="1078" alt="Captura de tela 2026-01-07 120608" src="https://github.com/user-attachments/assets/2c5d8378-450c-4d71-9bd5-33876e08a227" />
 
 <img width="953" height="1029" alt="Captura de tela 2026-01-07 105132" src="https://github.com/user-attachments/assets/38908ed4-b676-4ca4-aefa-99a5b86faf56" />
-
-
 
 
 <br>![#7DaysOfCode](https://img.shields.io/badge/%237DaysOfCode-black?style=for-the-badge&logoColor=white)

@@ -1,9 +1,41 @@
-🏆 Conquistas do Dia 01 - Desafio Avatar (7 Days of Code)
+<h1>🏆 Conquistas do Dia 02 - Desafio Avatar (7 Days of Code)</h1>
 
-<img width="1913" height="1079" alt="image" src="https://github.com/user-attachments/assets/98639513-f4bb-461f-ab96-d45993044c13" />
+<img width="1919" height="1069" alt="image" src="https://github.com/user-attachments/assets/567c6a38-b280-4021-952b-deb153795e12" />
+
+<br><h2>Obstáculos do desenvolvimento Back-end e superação🌟 das seguintes etapas:</h2>
+Instalei de novo a venv e importei corretamente.
+
+Passei uma função para ler os nomes e afiliações.
+Criei a função buscar_e_traduzir_personagens e usei o laço for p in personagens para navegar pelos dados.
+
+Traduzi esses atributos usando o tradutor.translate para converter os campos de inglês para português.
+
+Fiz um print para ver os nomes traduzidos e usei emojis e linhas de separação para melhorar a legibilidade.
+
+Manipulei a Estrutura de Dados: Aprendendo a "abrir o pacote" (JSON) e percorrendo uma lista de dicionários. 
+
+Tratei Dados Reais: Ao usar o .get('affiliation', 'N/A'), demonstrei que sei lidar com dados incompletos.
+
+Comunicação entre Sistemas: Integrei o Python com duas coisas diferentes ao mesmo tempo: uma API de dados (Avatar) e um serviço de tradução (Google).
+
+Persistência Técnica: Enfrentei erros de digitação na URL, erros de nome de variável e não desisti até o terminal mostrar exatamente o que planejei.
+
+<h2>Curiosidade🕵️</h2>
+
+Porque usei| E não usei|Motivo
+|:---|:---|:---|
+|from googletrans import Translator|import googletrans|Para deixar o código mais limpo e leve
+
+<br>![#7DaysOfCode](https://img.shields.io/badge/%237DaysOfCode-black?style=for-the-badge&logoColor=white)
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+
+<br><h1>🏆 Conquistas do Dia 01 - Desafio Avatar (7 Days of Code)</h1>
+
+<img width="1913" height="1079" alt="image" src="https://github.com/user-attachments/assets/98639513-f4bb-461f-ab96-d45993044c13"/>
 
 
-Obstáculos do desenvolvimento Back-end e superação das seguintes etapas:
+<br><h2>Obstáculos do desenvolvimento Back-end e superação das seguintes etapas:</h2>
 
 Configuração de Ambiente Profissional: Criei um ambiente virtual (venv) dedicado para o projeto, garantindo que as dependências fiquem isoladas e não interfiram em outras aplicações do meu sistema.
 

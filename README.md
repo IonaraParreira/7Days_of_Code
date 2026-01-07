@@ -20,6 +20,10 @@ Manutenção de Banco de Dados: Entendi sobre Migrações (migrations) e tratei 
 
 "Neste desafio, utilizei o terminal para orquestrar toda a infraestrutura do Django, desde a instalação até a execução do servidor dinâmico."
 
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/44e78d47-a864-4949-b1e6-cf882a94496f" />
+
+
+
 <br>![#7DaysOfCode](https://img.shields.io/badge/%237DaysOfCode-black?style=for-the-badge&logoColor=white)
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">

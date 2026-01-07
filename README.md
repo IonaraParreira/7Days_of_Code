@@ -1,5 +1,21 @@
-<h1>🏆 Conquistas do Dia 0 - Desafio DJANGO (7 Days of Code)</h1>
-![Resultado Final](https://github.com/user-attachments/assets/695634ca-e254-4af5-b6ba-f39ce208dbb4)
+<h1>🏆 Conquistas do Dia 03 - Desafio DJANGO (7 Days of Code)</h1>
+Neste desafio, saí dos scripts isolados e iniciei a construção de uma aplicação Web robusta utilizando o framework Django.
+
+Configuração de Ambiente Web: Fiz a instalação e preparação do framework Django dentro de um ambiente virtual (venv).
+
+Arquitetura de Projeto: Criei a estrutura base do projeto utilizando o comando startproject e organização da lógica em aplicativos com startapp.
+
+Gestão de Configurações: Registrei e ativei novos aplicativos dentro do arquivo settings.py (essencial para o funcionamento do ecossistema Django).
+
+Servidor de Desenvolvimento: Executei e monitorei um servidor local via manage.py runserver, garantindo a comunicação correta entre o Back-end e o navegador.
+
+Manutenção de Banco de Dados: Entendi sobre Migrações (migrations) e tratei avisos do terminal para manter a integridade do sistema.
+
+<img width="1906" height="1078" alt="Captura de tela 2026-01-07 120608" src="https://github.com/user-attachments/assets/2c5d8378-450c-4d71-9bd5-33876e08a227" />
+
+<img width="953" height="1029" alt="Captura de tela 2026-01-07 105132" src="https://github.com/user-attachments/assets/38908ed4-b676-4ca4-aefa-99a5b86faf56" />
+
+
 
 
 <br>![#7DaysOfCode](https://img.shields.io/badge/%237DaysOfCode-black?style=for-the-badge&logoColor=white)

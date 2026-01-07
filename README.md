@@ -1,3 +1,11 @@
+<h1>🏆 Conquistas do Dia 0 - Desafio DJANGO (7 Days of Code)</h1>
+![Resultado Final](https://github.com/user-attachments/assets/695634ca-e254-4af5-b6ba-f39ce208dbb4)
+
+
+<br>![#7DaysOfCode](https://img.shields.io/badge/%237DaysOfCode-black?style=for-the-badge&logoColor=white)
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+
 <h1>🏆 Conquistas do Dia 02 - Desafio Avatar (7 Days of Code)</h1>
 
 <img width="1919" height="1069" alt="image" src="https://github.com/user-attachments/assets/567c6a38-b280-4021-952b-deb153795e12" />

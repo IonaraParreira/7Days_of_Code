@@ -1,3 +1,39 @@
+<h1>🏆 Conquistas do Dia 04 - Desafio DJANGO (7 Days of Code)</h1>
+<br><h2>Obstáculos do desenvolvimento Back-end e superação🥳 das seguintes etapas:</h2>
+
+<img width="1047" height="583" alt="Captura de tela 2026-01-08 120036" src="https://github.com/user-attachments/assets/eeb9ff14-8148-4cc5-9bdd-03a0b962ad5d" />
+
+<h2>📜 Minha Jornada</h2> 
+
+### 🏆 Me desdobrei hoje:
+
+<br><img width="30" height="250" alt="Captura de tela 2026-01-08 115710" src="https://github.com/user-attachments/assets/cd4eb03b-edbf-44dc-8b65-7259051b4809" />
+Dobra de Ar (**Navegação**): Dominei o vento para me mover entre os diretórios com o cd .. e o ls, encontrando o caminho de volta para a raiz do projeto. 
+
+<br><img width="30" height="257" alt="Captura de tela 2026-01-08 115658" src="https://github.com/user-attachments/assets/c0e09a43-7042-4cb3-a094-9a54478dbb78" />
+Dobra de Terra (**Estrutura**): Assentei a base sólida da arquitetura MVT, criando pastas e conectando URLs. Cada arquivo está em seu lugar sagrado. 
+
+<br><img width="30" height="275" alt="Captura de tela 2026-01-08 115704" src="https://github.com/user-attachments/assets/f8ea08af-726e-462e-9cd9-3c853dc877e7" />
+Dobra de Fogo (**Execução**): Acendi a chama do servidor com o runserver. O fogo da criação deu vida à minha primeira página HTML! 
+
+<br><img width="30" height="311" alt="Captura de tela 2026-01-08 115654" src="https://github.com/user-attachments/assets/838c83e3-0adf-4039-b44d-90c05c64b827" />
+Dobra de Água (**Fluidez**): Fiz o código fluir entre a View e o Template, separando a lógica da apresentação para um sistema harmonioso. 
+
+<br><img width="1809" height="862" alt="image" src="https://github.com/user-attachments/assets/bb8bd426-d8ab-4e22-bf1a-8d6d57a31ab7" />
+
+<h2>Curiosidade🕵️</h2>
+
+💡 Por que esse comando? | python manage.py runserver|
+|:---|:---|
+python: Chama o intérprete da linguagem.
+manage.py: É o seu "controle remoto" do projeto (o arquivo deixado na raiz).
+runserver: É a ordem específica para ligar o motor e colocar o site no ar..
+
+
+<br>![#7DaysOfCode](https://img.shields.io/badge/%237DaysOfCode-black?style=for-the-badge&logoColor=white)
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+
 <h1>🏆 Conquistas do Dia 03 - Desafio DJANGO (7 Days of Code)</h1>
 <br><h2>Obstáculos do desenvolvimento Back-end e superação💪🏻 das seguintes etapas:</h2>
 Neste desafio, saí dos scripts isolados e iniciei a construção de uma aplicação Web robusta utilizando o framework Django.

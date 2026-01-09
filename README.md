@@ -1,3 +1,31 @@
+<h1>🏆 Conquistas do Dia 05 - Desafio BOOTSTRAP JUNTO AO DJANGO (7 Days of Code)</h1>
+<br><h2>Obstáculos do desenvolvimento Back-end e superação🥳 das seguintes etapas:</h2>
+
+Integração de Back-end: Os dados estão vindo da API, sendo processados pela sua View e entregues ao Template.
+
+Uso de Bootstrap: Instalei o framework corretamente via CDN e ele transformou seu HTML básico em algo profissional.
+
+Visual em Tabela: Em vez de uma lista simples,criei uma tabela organizada, com cabeçalho e estilos (table-striped, table-dark).
+
+<br><img width="938" height="918" alt="image" src="https://github.com/user-attachments/assets/9ea1f9f0-fc4e-4b53-bea3-82e775d29b3b" />
+
+<br><img width="1910" height="1015" alt="Captura de tela 2026-01-09 125858" src="https://github.com/user-attachments/assets/10641b9c-4d16-468a-be4d-644f94557b35" />
+
+| **Bootstrap**| **Utilidade** |
+| :--- | :--- |
+| É como uma loja de construção que entrega as paredes prontas. É um framework de CSS com códigos prontos para botões e tabelas. |Serve para deixar o projeto bonito e organizado sem precisar escrever centenas de linhas de código visual do zero. |
+
+
+<br><h2>![Dica](https://img.shields.io/badge/🕵️_Dica_de_Programadora_Back_end-9400d3?style=for-the-badge)</h2>
+
+Muitas vezes, quando você estiver usando uma biblioteca nova no Django (como uma para gráficos ou mapas), você vai procurar no Google por: "NomeDaLib CDN".
+Isso vai te levar direto para sites como o cdnjs.com ou o jsdelivr.com, que são grandes bibliotecas de links prontos para você copiar e colar no seu head.
+
+<br>![#7DaysOfCode](https://img.shields.io/badge/%237DaysOfCode-black?style=for-the-badge&logoColor=white)
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+
+
 <h1>🏆 Conquistas do Dia 04 - Desafio DJANGO (7 Days of Code)</h1>
 <br><h2>Obstáculos do desenvolvimento Back-end e superação🥳 das seguintes etapas:</h2>
 

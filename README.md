@@ -19,6 +19,10 @@ Dobra de Fogo (**Execução**): Acendi a chama do servidor com o runserver. O fo
 <br><img width="30" height="311" alt="Captura de tela 2026-01-08 115654" src="https://github.com/user-attachments/assets/838c83e3-0adf-4039-b44d-90c05c64b827" />
 Dobra de Água (**Fluidez**): Fiz o código fluir entre a View e o Template, separando a lógica da apresentação para um sistema harmonioso. 
 
+<img width="1789" height="1079" alt="Captura de tela 2026-01-09 094520" src="https://github.com/user-attachments/assets/824f53fe-c3d7-466a-97e3-6a8e4f1866ec" />
+
+
+
 <br><img width="1809" height="862" alt="image" src="https://github.com/user-attachments/assets/bb8bd426-d8ab-4e22-bf1a-8d6d57a31ab7" />
 
 <h2>Curiosidade🕵️</h2>
@@ -58,6 +62,12 @@ Manutenção de Banco de Dados: Entendi sobre Migrações (migrations) e tratei 
 
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/44e78d47-a864-4949-b1e6-cf882a94496f" />
 
+
+<h2>Curiosidade🕵️</h2>
+
+|DJANGO | SUA IMPORTÂNCIA |
+|:--- | :---|
+| É um DJ | Coordena faixas(arquivos) ritmos(dados) para que a festa(o site) aconteça sem ninguém sair do compasso! |
 
 
 <br>![#7DaysOfCode](https://img.shields.io/badge/%237DaysOfCode-black?style=for-the-badge&logoColor=white)

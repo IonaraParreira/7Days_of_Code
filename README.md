@@ -1,9 +1,9 @@
 <h1>🏆 Conquistas do Dia 05 - Desafio BOOTSTRAP JUNTO AO DJANGO (7 Days of Code)</h1>
 <br><h2>Obstáculos do desenvolvimento Back-end e superação🥳 das seguintes etapas:</h2>
 
-Integração de Back-end: Os dados estão vindo da API, sendo processados pela sua View e entregues ao Template.
+Integração de Back-end: Os dados estão vindo da API, sendo processados pela minha View e entregues ao Template.
 
-Uso de Bootstrap: Instalei o framework corretamente via CDN e ele transformou seu HTML básico em algo profissional.
+Uso de Bootstrap: Instalei o framework corretamente via CDN e ele transformou meu HTML básico em algo profissional.
 
 Visual em Tabela: Em vez de uma lista simples,criei uma tabela organizada, com cabeçalho e estilos (table-striped, table-dark).
 

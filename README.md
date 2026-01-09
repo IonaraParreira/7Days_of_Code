@@ -1,5 +1,5 @@
 <h1>🏆 Conquistas do Dia 05 - Desafio BOOTSTRAP JUNTO AO DJANGO (7 Days of Code)</h1>
-<br><h2>Obstáculos do desenvolvimento Back-end e venci das seguintes etapas:</h2>
+<br><h2>Obstáculos do desenvolvimento Back-end e venci😁 as seguintes etapas:</h2>
 
 Integração de Back-end: Os dados estão vindo da API, sendo processados pela minha View e entregues ao Template.
 

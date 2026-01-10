@@ -1,3 +1,7 @@
+Aprimoramento dia 5
+<img width="1916" height="1027" alt="image" src="https://github.com/user-attachments/assets/b1d1c06b-d85a-47b4-a648-09022a78322b" />
+
+
 <h1>🏆 Conquistas do Dia 03 - Desafio DJANGO (7 Days of Code)</h1>
 <br><h2>Obstáculos do desenvolvimento Back-end e superação💪🏻 das seguintes etapas:</h2>
 Neste desafio, saí dos scripts isolados e iniciei a construção de uma aplicação Web robusta utilizando o framework Django.

@@ -1,5 +1,74 @@
-Aprimoramento dia 5
+
+<h1>🏆 Conquistas do Dia 05 - Desafio BOOTSTRAP JUNTO AO DJANGO (7 Days of Code)</h1>
+<br><h2>Obstáculos do desenvolvimento Back-end e venci😁 as seguintes etapas:</h2>
+
+Integração de Back-end: Os dados estão vindo da API, sendo processados pela minha View e entregues ao Template.
+
+Uso de Bootstrap: Instalei o framework corretamente via CDN e ele transformou meu HTML básico em algo profissional.
+
+Visual em Tabela: Em vez de uma lista simples,criei uma tabela organizada, com cabeçalho e estilos (table-striped, table-dark).
+
+<br><img width="938" height="918" alt="image" src="https://github.com/user-attachments/assets/9ea1f9f0-fc4e-4b53-bea3-82e775d29b3b" />
+
+<br><img width="1910" height="1015" alt="Captura de tela 2026-01-09 125858" src="https://github.com/user-attachments/assets/10641b9c-4d16-468a-be4d-644f94557b35" />
+
+<h1>Dia 5 Aprimoramento</h1>
 <img width="1916" height="1027" alt="image" src="https://github.com/user-attachments/assets/b1d1c06b-d85a-47b4-a648-09022a78322b" />
+
+| **Bootstrap**| **Utilidade** |
+| :--- | :--- |
+| É como uma loja de construção que entrega as paredes prontas. É um framework de CSS com códigos prontos para botões e tabelas. |Serve para deixar o projeto bonito e organizado sem precisar escrever centenas de linhas de código visual do zero. |
+
+
+<br><h2>![Dica](https://img.shields.io/badge/🕵️_Dica_de_Programadora_Back_end-9400d3?style=for-the-badge)</h2>
+
+Muitas vezes, quando você estiver usando uma biblioteca nova no Django (como uma para gráficos ou mapas), você vai procurar no Google por: "NomeDaLib CDN".
+Isso vai te levar direto para sites como o cdnjs.com ou o jsdelivr.com, que são grandes bibliotecas de links prontos para você copiar e colar no seu head.
+
+<br>![#7DaysOfCode](https://img.shields.io/badge/%237DaysOfCode-black?style=for-the-badge&logoColor=white)
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+
+
+<h1>🏆 Conquistas do Dia 04 - Desafio DJANGO (7 Days of Code)</h1>
+<br><h2>Obstáculos do desenvolvimento Back-end e superação🥳 das seguintes etapas:</h2>
+
+<img width="1047" height="583" alt="Captura de tela 2026-01-08 120036" src="https://github.com/user-attachments/assets/eeb9ff14-8148-4cc5-9bdd-03a0b962ad5d" />
+
+<h2>📜 Minha Jornada</h2> 
+
+### 🏆 Me desdobrei hoje:
+
+<br><img width="30" height="250" alt="Captura de tela 2026-01-08 115710" src="https://github.com/user-attachments/assets/cd4eb03b-edbf-44dc-8b65-7259051b4809" />
+Dobra de Ar (**Navegação**): Dominei o vento para me mover entre os diretórios com o cd .. e o ls, encontrando o caminho de volta para a raiz do projeto. 
+
+<br><img width="30" height="257" alt="Captura de tela 2026-01-08 115658" src="https://github.com/user-attachments/assets/c0e09a43-7042-4cb3-a094-9a54478dbb78" />
+Dobra de Terra (**Estrutura**): Assentei a base sólida da arquitetura MVT, criando pastas e conectando URLs. Cada arquivo está em seu lugar sagrado. 
+
+<br><img width="30" height="275" alt="Captura de tela 2026-01-08 115704" src="https://github.com/user-attachments/assets/f8ea08af-726e-462e-9cd9-3c853dc877e7" />
+Dobra de Fogo (**Execução**): Acendi a chama do servidor com o runserver. O fogo da criação deu vida à minha primeira página HTML! 
+
+<br><img width="30" height="311" alt="Captura de tela 2026-01-08 115654" src="https://github.com/user-attachments/assets/838c83e3-0adf-4039-b44d-90c05c64b827" />
+Dobra de Água (**Fluidez**): Fiz o código fluir entre a View e o Template, separando a lógica da apresentação para um sistema harmonioso. 
+
+<img width="1789" height="1079" alt="Captura de tela 2026-01-09 094520" src="https://github.com/user-attachments/assets/824f53fe-c3d7-466a-97e3-6a8e4f1866ec" />
+
+
+
+<br><img width="1809" height="862" alt="image" src="https://github.com/user-attachments/assets/bb8bd426-d8ab-4e22-bf1a-8d6d57a31ab7" />
+
+<h2>Curiosidade🕵️</h2>
+
+💡 Por que esse comando? | python manage.py runserver|
+|:---|:---|
+python: Chama o intérprete da linguagem.
+manage.py: É o seu "controle remoto" do projeto (o arquivo deixado na raiz).
+runserver: É a ordem específica para ligar o motor e colocar o site no ar..
+
+
+<br>![#7DaysOfCode](https://img.shields.io/badge/%237DaysOfCode-black?style=for-the-badge&logoColor=white)
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 
 
 <h1>🏆 Conquistas do Dia 03 - Desafio DJANGO (7 Days of Code)</h1>

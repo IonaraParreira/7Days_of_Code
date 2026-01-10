@@ -9,15 +9,13 @@ Uso de Bootstrap: Instalei o framework corretamente via CDN e ele transformou me
 Visual em Tabela: Em vez de uma lista simples,criei uma tabela organizada, com cabeçalho e estilos (table-striped, table-dark).
 
 <br><img width="938" height="918" alt="image" src="https://github.com/user-attachments/assets/9ea1f9f0-fc4e-4b53-bea3-82e775d29b3b" />
-
-<img width="1910" height="1015" alt="Captura de tela 2026-01-09 125858" src="https://github.com/user-attachments/assets/10641b9c-4d16-468a-be4d-644f94557b35" />
-
+<br><img width="1910" height="1015" alt="Captura de tela 2026-01-09 125858" src="https://github.com/user-attachments/assets/10641b9c-4d16-468a-be4d-644f94557b35" />
+<br>
 <h1>Dia 5 Aprimoramento</h1>
-<br><img width="1916" height="1027" alt="image" src="https://github.com/user-attachments/assets/b1d1c06b-d85a-47b4-a648-09022a78322b" />
-
+<img width="1916" height="1027" alt="image" src="https://github.com/user-attachments/assets/b1d1c06b-d85a-47b4-a648-09022a78322b" />
 
 | **Bootstrap**| **Utilidade** |
-| :--- | :--- |
+| :--- |:--- |
 | É como uma loja de construção que entrega as paredes prontas. É um framework de CSS com códigos prontos para botões e tabelas. |Serve para deixar o projeto bonito e organizado sem precisar escrever centenas de linhas de código visual do zero. |
 
 

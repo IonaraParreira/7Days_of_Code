@@ -13,15 +13,23 @@ def index(request):
             personagens = resposta.json()
             tradutor = Translator()
 
-            # Pegando os 10 primeiros para ser mais rápido
-            for p in personagens[:10]:
-                nome_br = tradutor.translate(p['name'], dest='pt').text
+           #Pegando todos os personagens
+        for p in personagens:
+            try:
+                    # Traduzindo Nome e Afiliação
+                nome_br = tradutor.translate(p.get('name', ''), dest='pt').text
                 afiliacao = p.get('affiliation', 'Sem afiliação')
                 afiliacao_br = tradutor.translate(afiliacao, dest='pt').text
 
+                # Adicionando foto e listas de amigos/inimigos
                 personagens_traduzidos.append({
                     'nome': nome_br,
-                    'elemento': afiliacao_br})
+                    'elemento': afiliacao_br,
+                    'foto': p.get('photoUrl', 'https://via.placeholder.com/150'),
+                    'aliados': p.get('allies', []),
+                    'inimigos': p.get('enemies', [])})
+            except:
+                continue #Se um falhar,pula para o próximo
                 
     except Exception as e:    
         print(f"Erro de conexão: {e}")

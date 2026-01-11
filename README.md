@@ -1,3 +1,22 @@
+<h1>🏆 Conquistas do Dia 06 - Desafio Back comback😏😎 (7 Days of Code)</h1>
+<br><h2>Obstáculos do desenvolvimento,hoje foi um Back comback:</h2>
+
+<h5>Embora a tela pareça "simples" como vista no dia 2, não,não é o mesmo código!Sabe por quê?:
+Porque nesse desafio eu "entrei na illuminati" o código secreto,na verdade, eu usei o enumerate() para criar um "crachá" (ID) único para cada personagem. (<strong>Identidade Própria</strong>)</h5>
+
+<h5>E se ainda não "view"(só os backs, conseguem 😅)! O meu views.py agora organiza Nome,Elemento,Foto e ID de forma estruturada (**Dicionário Profissional com uma lógica que deixa qualquer programador de back aberta**)<h5></h5>
+
+<h5>Mantive o template HTML minimalista para validar a integridade da nova estrutura de IDs, com o objetivo de reintroduzir a renderização visual completa no desafio final. (**Separação de Camadas**)</h5>
+<br><h1>Dia 6</h1>
+<img width="1917" height="1036" alt="Captura de tela 2026-01-10 170540" src="https://github.com/user-attachments/assets/fed6470e-47af-4247-8e3e-86841597b125" />
+
+<h1>Dia 2</h1>
+<img width="1302" height="616" alt="image" src="https://github.com/user-attachments/assets/f7ede230-0977-4c8b-9579-6233774970d1" />
+
+<br>![#7DaysOfCode](https://img.shields.io/badge/%237DaysOfCode-black?style=for-the-badge&logoColor=white)
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+
 <h1>🏆 Conquistas do Dia 05 - Desafio BOOTSTRAP JUNTO AO DJANGO (7 Days of Code)</h1>
 <br><h2>Obstáculos do desenvolvimento Back-end e venci😁 as seguintes etapas:</h2>
 

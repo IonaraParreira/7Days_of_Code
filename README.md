@@ -25,10 +25,10 @@ Formatação de String: Implementei o .upper() para garantir que informações c
 
 Tradução Dinâmica: Integrei a biblioteca googletrans para que o site fosse acessível em português, traduzindo nomes e afiliações em tempo real.
 
-Monitoramento (Logs de Sênior)
+Monitoramento (Logs de Sênior):
 Criei um sistema de Logs no Terminal. Agora, antes mesmo de abrir o navegador,eu já sei exatamente qual ID está sendo processado e se os dados estão corretos. Isso economiza horas de manutenção!
 
-Sincronização com o Front-end (HTML)
+Sincronização com o Front-end (HTML):
 Dominei o conceito de Chave/Valor. Entendi que o nome da "caixa" criada no Python ('dobra', 'aliados') precisa ser exatamente o mesmo usado no HTML ({{ personagem.dobra }}).
 
 Interface Visual: Adicionei tags de imagem com estilos CSS inline (border-radius, width) para transformar uma lista de texto em uma galeria visual profissional.

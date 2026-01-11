@@ -3,16 +3,19 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Avatar</title>
+    <title>Avatar Aprimorado</title>
 </head>
 <body>
     <h1>🌊 Personagens de Avatar 🌪️</h1>
     <ul>
         {% for personagem in lista_avatar %}
             <li>
-                <strong>Nome:</strong> {{ personagem.nome }} | 
-                <strong>Dobra:</strong> {{ personagem.elemento }}
-            </li>
+                <strong>ID {{ personagem.id }}:</strong> {{ personagem.nome }} <br>
+                <img src="{{ personagem.foto }}" alt="Foto de {{ personagem.nome }}" style="width: 150px; border-radius: 10px; margin: 10px 0;"> <br>
+                <strong>Aliados:</strong> {{ personagem.aliados }} <br>
+                <strong>Inimigos:</strong> {{ personagem.inimigos }} <br>
+                <strong>Dobra:</strong> {{ personagem.dobra }} <br>
+                <hr> </li>
         {% empty %}
             <li>Nenhum personagem encontrado.</li>
         {% endfor %}

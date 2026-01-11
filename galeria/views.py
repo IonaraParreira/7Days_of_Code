@@ -7,33 +7,40 @@ def index(request):
     personagens_traduzidos = []
     
     try:
-        # 📡 Chamando a API do Avatar
         resposta = requests.get(url)
         if resposta.status_code == 200:
             personagens = resposta.json()
             tradutor = Translator()
 
-            # 🆔 O 'enumerate' nos dá o índice (0, 1, 2...) para criar o ID
             for indice, p in enumerate(personagens[:10]):
                 try:
-                    # Traduzindo Nome e Afiliação
+                    # Traduzindo o nome para Português
                     nome_br = tradutor.translate(p.get('name', ''), dest='pt').text
-                    afiliacao = p.get('affiliation', 'Sem afiliação')
-                    afiliacao_br = tradutor.translate(afiliacao, dest='pt').text
+                    
+                    # 🛡️ TRATAMENTO PROFISSIONAL (BACK-END)
+                    # Pegamos as listas, limpamos e deixamos em MAIÚSCULO como você queria
+                    aliados_raw = p.get('allies', [])
+                    aliados_limpos = ", ".join(aliados_raw).upper() if aliados_raw else "SEM ALIADOS"
+                    
+                    inimigos_raw = p.get('enemies', [])
+                    inimigos_limpos = ", ".join(inimigos_raw).upper() if inimigos_raw else "SEM INIMIGOS"
 
-                    # 📥 Encaixando tudo na lista (ID, Nome, Elemento e Foto)
+                    # 🖥️ ISSO VAI APARECER NO SEU TERMINAL (LOG DE SÊNIOR)
+                    print(f"ID {indice+1}: {nome_br} | ALIADOS: {aliados_limpos}")
+
                     personagens_traduzidos.append({
-                        'id': indice + 1,  # O ID começa em 1
+                        'id': indice + 1,
                         'nome': nome_br,
-                        'elemento': afiliacao_br,
+                        'aliados': aliados_limpos,
+                        'inimigos': inimigos_limpos,
                         'foto': p.get('photoUrl', 'https://via.placeholder.com/150')
                     })
                 except Exception as e:
-                    print(f"Erro ao processar personagem: {e}")
+                    print(f"Erro no processamento do personagem {indice}: {e}")
                     continue
                 
     except Exception as e:    
-        print(f"Erro de conexão: {e}")
+        print(f"Erro de conexão com a API: {e}")
 
-    # Enviando a lista atualizada para o HTML
+    # Enviando a lista para o seu HTML
     return render(request, 'galeria/index.html', {'lista_avatar': personagens_traduzidos})

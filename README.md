@@ -1,3 +1,27 @@
+
+<h1>🏆 Dia 07: A Página desdobrada (7 Days of Code)</h1>
+<h3>Neste dia, deixei de apenas "exibir dados" e passei a gerenciar o fluxo de informações entre o cliente, o servidor e a API.</h3>
+
+<br><img width="1915" height="1079" alt="Captura de tela 2026-01-11 153647" src="https://github.com/user-attachments/assets/019e6b81-a564-4a8c-aa4b-b88f9af9848f" />
+
+<h2>Como o fluxo funciona na prática</h2>
+O Link Mágico (href="?page=..."): Ao clicar em "Próximo", o navegador atualiza a URL (ex: /?page=2). O Django captura esse número através do request.GET.get('page').
+
+<br>O Python "Cérebro": O Python usa esse número para montar a URL da API, busca os 10 personagens específicos e os coloca na "maleta" (dicionário de contexto).
+
+As Variáveis de Controle: Utilizei {{ pagina_atual }}, {{ proxima_pagina }} e {{ pagina_anterior }}. Esses nomes no HTML são os "rótulos" que conectam os dados calculados no Back-end com a interface do usuário.
+
+O Loop Inteligente ({% for %}): O HTML percorre a lista_avatar, que agora é dinâmica e contém apenas os dados da página solicitada.
+
+# ![Dica](https://img.shields.io/badge/DOBREITUDO-9400d3?style=for-the-badge)
+
+"No começo, eu apenas trazia os dados e cortava os 10 primeiros no Python. Mas no Dia 07 eu mudei a arquitetura para paginação dinâmica. Isso tornou o site escalável, porque agora eu gerencio o que a API envia através de parâmetros de URL. Se a base de dados crescer absurdamente, minha aplicação continua leve e rápida.
+Com isso, pude evoluir a lógica de exibição de um corte estático (slice) para uma paginação dinâmica via API. Agora, o sistema solicita apenas os dados necessários para a página atual, otimizando drasticamente o consumo de memória e banda (Network)."
+
+<br>![#7DaysOfCode](https://img.shields.io/badge/%237DaysOfCode-black?style=for-the-badge&logoColor=white)
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+
 <h1>🏆 Conquistas do Dia 06 - Desafio Back comback😏😎 (7 Days of Code)</h1>
 <br><h2>Obstáculos do desenvolvimento,hoje foi um Back comback:</h2>
 

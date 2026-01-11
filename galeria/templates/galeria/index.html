@@ -3,10 +3,13 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Avatar Aprimorado</title>
+    <title>Avatar - Dia 7</title>
 </head>
 <body>
     <h1>🌊 Personagens de Avatar 🌪️</h1>
+    
+    <h3>Exibindo Página: {{ pagina_atual }}</h3>
+
     <ul>
         {% for personagem in lista_avatar %}
             <li>
@@ -15,10 +18,25 @@
                 <strong>Aliados:</strong> {{ personagem.aliados }} <br>
                 <strong>Inimigos:</strong> {{ personagem.inimigos }} <br>
                 <strong>Dobra:</strong> {{ personagem.dobra }} <br>
-                <hr> </li>
+                <hr> 
+            </li>
         {% empty %}
             <li>Nenhum personagem encontrado.</li>
         {% endfor %}
     </ul>
+
+    <div style="text-align: center; margin: 30px 0; padding-bottom: 50px;">
+        
+        {% if pagina_anterior %}
+            <a href="?page={{ pagina_anterior }}" style="padding: 10px 20px; background-color: #333; color: white; text-decoration: none; border-radius: 5px;">⬅️ Anterior</a>
+        {% endif %}
+
+        <span style="margin: 0 15px; font-weight: bold; font-size: 1.2em;">
+            Página {{ pagina_atual }}
+        </span>
+
+        <a href="?page={{ proxima_pagina }}" style="padding: 10px 20px; background-color: #333; color: white; text-decoration: none; border-radius: 5px;">Próximo ➡️</a>
+        
+    </div>
 </body>
 </html>

@@ -20,7 +20,7 @@ def index(request):
             # Note: O enumerate ajuda no Log de Sênior!
             for indice, p in enumerate(personagens):
                 try:
-                    # --- SEU PROCESSAMENTO DE DADOS (Mantido!) ---
+                    # ---PROCESSAMENTO DE DADOS (Mantido!) ---
                     nome_raw = p.get('name', '')
                     nome_br = tradutor.translate(nome_raw, dest='pt').text.upper()
                     

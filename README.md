@@ -1,3 +1,67 @@
+<h1>🏆 Dia 07: A Página desdobrada (7 Days of Code)</h1>
+<h3>Neste dia, deixei de apenas "exibir dados" e passei a gerenciar o fluxo de informações entre o cliente, o servidor e a API.</h3>
+
+<br><img width="1915" height="1079" alt="Captura de tela 2026-01-11 153647" src="https://github.com/user-attachments/assets/019e6b81-a564-4a8c-aa4b-b88f9af9848f" />
+
+<h2>Como o fluxo funciona na prática</h2>
+O Link Mágico (href="?page=..."): Ao clicar em "Próximo", o navegador atualiza a URL (ex: /?page=2). O Django captura esse número através do request.GET.get('page').
+
+<br>O Python "Cérebro": O Python usa esse número para montar a URL da API, busca os 10 personagens específicos e os coloca na "maleta" (dicionário de contexto).
+
+As Variáveis de Controle: Utilizei {{ pagina_atual }}, {{ proxima_pagina }} e {{ pagina_anterior }}. Esses nomes no HTML são os "rótulos" que conectam os dados calculados no Back-end com a interface do usuário.
+
+O Loop Inteligente ({% for %}): O HTML percorre a lista_avatar, que agora é dinâmica e contém apenas os dados da página solicitada.
+
+# ![Dica](https://img.shields.io/badge/DOBREITUDO-9400d3?style=for-the-badge)
+
+"No começo, eu apenas trazia os dados e cortava os 10 primeiros no Python. Mas no Dia 07 eu mudei a arquitetura para paginação dinâmica. Isso tornou o site escalável, porque agora eu gerencio o que a API envia através de parâmetros de URL. Se a base de dados crescer absurdamente, minha aplicação continua leve e rápida.
+Com isso, pude evoluir a lógica de exibição de um corte estático (slice) para uma paginação dinâmica via API. Agora, o sistema solicita apenas os dados necessários para a página atual, otimizando drasticamente o consumo de memória e banda (Network)."
+
+<h1>O Aprimoramento está aqui 😏</h1>
+
+<img width="1912" height="1062" alt="Captura de tela 2026-01-12 121001" src="https://github.com/user-attachments/assets/d2df2944-363f-4be9-9553-7091356a3e57" />
+
+<br><h1>🏆 Resumo Técnico: Aprimoramento Dia 07</h1>
+
+<h1>Front-end & Estilização (Bootstrap 5)</h1>
+
+<img width="953" height="495" alt="image" src="https://github.com/user-attachments/assets/d4fc9950-0135-4e95-bf41-50d18d4c9608" />
+
+## Bootstrap 5
+
+|  |  |
+| :--- | :--- |
+| **O que é** | Framework CSS utilizado para acelerar o desenvolvimento de interfaces responsivas. |
+| **Como usei** | Implementado via CDN (Content Delivery Network) para estilizar as tabelas de dados e o sistema de paginação do | projeto Avatar.|
+| **Destaque** | Adaptabilidade: O layout se ajusta automaticamente a diferentes tamanhos de tela (desktop e mobile). |
+| **UI/UX** | Uso de classes como table-hover e badges para melhorar a experiência visual do usuário. |
+| **Eficiência** | Criação de uma interface moderna e limpa sem a necessidade de escrever CSS do zero, focando na integração com o Back-end. | 
+
+### 🛠️ Minhas Ferramentas
+
+| Tecnologia | Ícone | O que eu fiz com ela? |
+| :--- | :---: | :--- |
+| **Python** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="25" height="25"> | Consumi a API e tratei os dados dos personagens por meio da lógica de processamento.|
+| **Django** | <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/django.svg" width="25" height="25"> | Gerenciei as rotas e a lógica do servidor,pensando nele como framework principal para a arquitetura do site.
+| **Bootstrap** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="25" height="25"> | Estilizei a tabela de personagens e a paginação de forma responsiva e com componentes de interface.|
+| **Git** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="25" height="25"> | Controlei o versionamento e gerenciamento de branches.|
+
+---
+
+|<h2>💡O diferencial</h2>
+|:---|
+"Ajuste Fino de Layout:"
+Implementação de técnicas de table-layout: fixed e quebra de linha dinâmica para garantir que nomes longos da API não quebrassem a estrutura visual do site.
+
+
+<br>![#7DaysOfCode](https://img.shields.io/badge/%237DaysOfCode-black?style=for-the-badge&logoColor=white)
+
+<p align ="center"><img width="293" height="235" alt="Captura de tela 2026-01-08 120833" src="https://github.com/user-attachments/assets/0bc57ef3-a2a1-46df-a159-c0f5b0722c71" /></p>
+
+<h3><p align="center">Por hoje é só pessoal, e se gostou ou foi útil <br>fique à vontade⭐</p></h3>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+
 <h1>🏆 Conquistas do Dia 06 - Desafio Back comback😏😎 (7 Days of Code)</h1>
 <br><h2>Obstáculos do desenvolvimento,hoje foi um Back comback:</h2>
 
